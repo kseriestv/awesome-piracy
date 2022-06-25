@@ -810,6 +810,7 @@ premium services
 - [Club MST3k](http://www.club-mst3k.com/) Every episode of MST3K
 - [Archive.org](https://archive.org/) Old movies
 - [MioMio](http://www.miomio.tv/) Asian TV shows/anime
+- [KissAsian]([https://www2.watchasian.co/](https://dramacoolkissasian.com/show/)) English Subtitle
 
 #### Third Party Hosts
 - [MovieZion](https://www.nicemoviezion.pro/) Openload
